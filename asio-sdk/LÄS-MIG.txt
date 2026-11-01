@@ -1,0 +1,7 @@
+Lägg Steinbergs ASIO SDK här, så att mappen common/ hamnar direkt under asio-sdk/
+(alltså asio-sdk/common/iasiodrv.h, asio-sdk/host/ och asio-sdk/host/pc/).
+
+Ladda ner SDK:n från steinberg.net/developers. Sedan oktober 2025 finns den
+under licensen GPLv3 (som alternativ till Steinbergs egna avtal). Använder du
+GPLv3-alternativet måste hela Groovebox släppas som öppen källkod under
+GPLv3/AGPLv3, och repot måste vara publikt.
